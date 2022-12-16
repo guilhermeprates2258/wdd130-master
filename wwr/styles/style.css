@@ -622,7 +622,32 @@ footer p a:hover {
     color: #666;
   }
   
+  #feedback {
+    background-color: antiquewhite;
+    position: absolute;
+    top: 20%;
+    left: 500px;
+    right: 500px;
+    padding: .5em;
+    text-align: center;
+    display: none;
+    
+      
+}
 
+
+#feedback2 {
+    background-color: antiquewhite;
+    position: absolute;
+    margin-top: 5025px;
+    top: 20%;
+    left: 300px;
+    right: 300px;
+    padding: .5em;
+    text-align: center;
+    display: none;
+    
+}
   
   
   @media screen and (max-width: 520px) {
