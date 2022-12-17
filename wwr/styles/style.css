@@ -110,7 +110,7 @@ h4 {
 
 nav a:hover{
     background-color: rgb(255, 255, 255);
-    color: #080808;
+    color: #e9e2d9;
 }
 
 .book, .join {
@@ -456,15 +456,6 @@ footer p a:hover {
 
 /* contatc*/
 
-*, *:before, *:after {
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-  }
-  
-  
-  
-  
   #background3 {
     display: flex;
     min-height: 100vh;
@@ -630,9 +621,7 @@ footer p a:hover {
     right: 500px;
     padding: .5em;
     text-align: center;
-    display: none;
-    
-      
+    display: none;  
 }
 
 
